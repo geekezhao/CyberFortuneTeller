@@ -3,7 +3,7 @@
 ### Step to use:
 1. Alter birthday with your own birthday
 2. RUN!
-3. Check the result in cuurent_period.jpg
+3. Check the result in current_period.jpg
 
 Here is an example.
 
